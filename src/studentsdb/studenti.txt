@@ -1,0 +1,2 @@
+John Doe,123456,1000,Math,English,Science
+Jane Smith,789012,2000,History,Art
